@@ -2,7 +2,7 @@
   "version": 1,
   "startedAt": "2026-11-23",
   "categories": {
-    "CS": { "done": 0, "recentTopics": [] },
+    "CS": { "done": 1, "recentTopics": ["프로세스와 스레드"] },
     "BACKEND": { "done": 0, "recentTopics": [] },
     "CODING_TEST": { "done": 0, "recentTopics": [], "solvedProblems": [] },
     "CODE_REVIEW": { "done": 0, "recentTopics": [] },
@@ -10,6 +10,20 @@
     "ARCHITECTURE": { "done": 0, "recentTopics": [] },
     "DIARY": { "done": 0 }
   },
-  "reviews": [],
-  "log": {}
+  "reviews": [
+    {
+      "path": "cs/2026-11-23-프로세스와-스레드-그리고-경쟁-상태.md",
+      "category": "CS",
+      "topic": "프로세스와 스레드",
+      "title": "프로세스와 스레드, 그리고 경쟁 상태",
+      "question": "Spring Boot 서버(톰캣)는 요청이 들어올 때마다 스레드에 맡겨서 처리해. 1) 요청마다 프로세스를 새로 띄우지 않고 스레드를 쓰는 이유가 뭘까? 프로세스와 스레드의 차이를 메모리 관점에서 설명해봐. 2) 여러 스레드가 동시에 돌 때 생길 수 있는 문제 하나와, 그걸 어떻게 막는지도 말해봐.",
+      "score": 60,
+      "due": "2026-11-26"
+    }
+  ],
+  "log": {
+    "2026-11-23": {
+      "CS": "cs/2026-11-23-프로세스와-스레드-그리고-경쟁-상태.md"
+    }
+  }
 }
