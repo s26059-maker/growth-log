@@ -88,6 +88,16 @@ curriculum:
     # 코테는 AI가 문제를 지어내지 않고, 실제 백준 문제 중에서 테마 순서대로 골라줘
     - category: CODING_TEST
       themes:
+        - name: 입문 (입출력과 반복문)
+          problems:
+            - { number: 1000, title: "A+B" }
+            - { number: 10950, title: "A+B - 3" }
+            - { number: 2739, title: "구구단" }
+            - { number: 2438, title: "별 찍기 - 1" }
+            - { number: 10871, title: "X보다 작은 수" }
+            - { number: 2562, title: "최댓값" }
+            - { number: 10807, title: "개수 세기" }
+            - { number: 1546, title: "평균" }
         - name: 구현과 브루트포스
           problems:
             - { number: 2798, title: "블랙잭" }
