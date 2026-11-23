@@ -16,9 +16,13 @@
       "nextUp": "PaymentService를 인터페이스로 바꾸고 구현체(카카오페이, 토스)가 2개일 때 어떤 게 주입될까 (@Primary, @Qualifier)"
     },
     "CODING_TEST": {
-      "done": 0,
-      "recentTopics": [],
-      "solvedProblems": []
+      "done": 1,
+      "recentTopics": [
+        "입문 (입출력과 반복문)"
+      ],
+      "solvedProblems": [
+        1000
+      ]
     },
     "CODE_REVIEW": {
       "done": 0,
@@ -50,7 +54,8 @@
   "log": {
     "2026-11-23": {
       "CS": "cs/2026-11-23-프로세스와-스레드-그리고-경쟁-상태.md",
-      "BACKEND": "backend/2026-11-23-di와-생성자-주입-밑바닥부터.md"
+      "BACKEND": "backend/2026-11-23-di와-생성자-주입-밑바닥부터.md",
+      "CODING_TEST": "coding-test/2026-11-23-a+b와-자바-입력-받기.md"
     }
   }
 }
