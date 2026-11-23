@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "startedAt": "2026-11-23",
+  "categories": {
+    "CS": { "done": 0, "recentTopics": [] },
+    "BACKEND": { "done": 0, "recentTopics": [] },
+    "CODING_TEST": { "done": 0, "recentTopics": [], "solvedProblems": [] },
+    "CODE_REVIEW": { "done": 0, "recentTopics": [] },
+    "SECURITY": { "done": 0, "recentTopics": [] },
+    "ARCHITECTURE": { "done": 0, "recentTopics": [] },
+    "DIARY": { "done": 0 }
+  },
+  "reviews": [],
+  "log": {}
+}
