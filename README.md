@@ -39,4 +39,4 @@ AI 피드백으로 다듬은 최종 정리본만 모아두는 곳.
 | 수 · 토 | + 아키텍처 |
 | 일 | 복습하는 날 |
 
-문제 흐름은 [`.growth/curriculum.yml`](.growth/curriculum.yml), 진도와 복습 일정은 [`.growth/progress.json`](.growth/progress.json)에 있어.
+문제 흐름은 [`.growth/curriculum.yml`](.growth/curriculum.yml), 진도와 복습 일정은 [`.growth/progress.json`](.growth/progress.json)에 있어요.
