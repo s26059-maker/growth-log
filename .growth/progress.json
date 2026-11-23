@@ -40,7 +40,7 @@
       "recentTopics": []
     },
     "DIARY": {
-      "done": 0
+      "done": 1
     }
   },
   "reviews": [
@@ -59,7 +59,8 @@
       "CS": "cs/2026-11-23-프로세스와-스레드-그리고-경쟁-상태.md",
       "BACKEND": "backend/2026-11-23-di와-생성자-주입-밑바닥부터.md",
       "CODING_TEST": "coding-test/2026-11-23-a+b와-자바-입력-받기.md",
-      "CODE_REVIEW": "code-review/2026-11-23-주문-서비스-리뷰-주입과-경쟁-상태.md"
+      "CODE_REVIEW": "code-review/2026-11-23-주문-서비스-리뷰-주입과-경쟁-상태.md",
+      "DIARY": "diary/2026-11-23.md"
     }
   }
 }
