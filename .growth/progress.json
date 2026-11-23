@@ -2,13 +2,39 @@
   "version": 1,
   "startedAt": "2026-11-23",
   "categories": {
-    "CS": { "done": 1, "recentTopics": ["프로세스와 스레드"] },
-    "BACKEND": { "done": 0, "recentTopics": [] },
-    "CODING_TEST": { "done": 0, "recentTopics": [], "solvedProblems": [] },
-    "CODE_REVIEW": { "done": 0, "recentTopics": [] },
-    "SECURITY": { "done": 0, "recentTopics": [] },
-    "ARCHITECTURE": { "done": 0, "recentTopics": [] },
-    "DIARY": { "done": 0 }
+    "CS": {
+      "done": 1,
+      "recentTopics": [
+        "프로세스와 스레드"
+      ]
+    },
+    "BACKEND": {
+      "done": 1,
+      "recentTopics": [
+        "의존성 주입과 생성자 주입"
+      ],
+      "nextUp": "PaymentService를 인터페이스로 바꾸고 구현체(카카오페이, 토스)가 2개일 때 어떤 게 주입될까 (@Primary, @Qualifier)"
+    },
+    "CODING_TEST": {
+      "done": 0,
+      "recentTopics": [],
+      "solvedProblems": []
+    },
+    "CODE_REVIEW": {
+      "done": 0,
+      "recentTopics": []
+    },
+    "SECURITY": {
+      "done": 0,
+      "recentTopics": []
+    },
+    "ARCHITECTURE": {
+      "done": 0,
+      "recentTopics": []
+    },
+    "DIARY": {
+      "done": 0
+    }
   },
   "reviews": [
     {
@@ -23,7 +49,8 @@
   ],
   "log": {
     "2026-11-23": {
-      "CS": "cs/2026-11-23-프로세스와-스레드-그리고-경쟁-상태.md"
+      "CS": "cs/2026-11-23-프로세스와-스레드-그리고-경쟁-상태.md",
+      "BACKEND": "backend/2026-11-23-di와-생성자-주입-밑바닥부터.md"
     }
   }
 }
