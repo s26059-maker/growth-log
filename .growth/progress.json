@@ -3,8 +3,9 @@
   "startedAt": "2026-11-23",
   "categories": {
     "CS": {
-      "done": 1,
+      "done": 2,
       "recentTopics": [
+        "스레드 수와 컨텍스트 스위칭",
         "프로세스와 스레드"
       ]
     },
@@ -61,6 +62,9 @@
       "CODING_TEST": "coding-test/2026-11-23-a+b와-자바-입력-받기.md",
       "CODE_REVIEW": "code-review/2026-11-23-주문-서비스-리뷰-주입과-경쟁-상태.md",
       "DIARY": "diary/2026-11-23.md"
+    },
+    "2026-11-24": {
+      "CS": "cs/2026-11-24-스레드가-많으면-빨라질까.md"
     }
   }
 }
