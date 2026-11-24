@@ -47,7 +47,7 @@
       "recentTopics": []
     },
     "DIARY": {
-      "done": 1
+      "done": 2
     }
   },
   "reviews": [
@@ -73,7 +73,8 @@
       "CS": "cs/2026-11-24-스레드가-많으면-빨라질까.md",
       "BACKEND": "backend/2026-11-24-인터페이스로-결제-바꾸기와-primary.md",
       "CODING_TEST": "coding-test/2026-11-24-a+b-3과-for문.md",
-      "SECURITY": "security/2026-11-24-sql-인젝션과-preparedstatement.md"
+      "SECURITY": "security/2026-11-24-sql-인젝션과-preparedstatement.md",
+      "DIARY": "diary/2026-11-24.md"
     }
   }
 }
