@@ -36,8 +36,11 @@
       "nextUp": "JPA 첫걸음: 컨트롤러가 엔티티를 그대로 응답으로 돌려주는 코드 리뷰 (DTO로 바꾸기)"
     },
     "SECURITY": {
-      "done": 0,
-      "recentTopics": []
+      "done": 1,
+      "recentTopics": [
+        "SQL 인젝션과 PreparedStatement"
+      ],
+      "nextUp": "ORM도 뚫린다: @Query나 네이티브 쿼리에 문자열을 이어 붙인 코드 (JPQL 인젝션)"
     },
     "ARCHITECTURE": {
       "done": 0,
@@ -69,7 +72,8 @@
     "2026-11-24": {
       "CS": "cs/2026-11-24-스레드가-많으면-빨라질까.md",
       "BACKEND": "backend/2026-11-24-인터페이스로-결제-바꾸기와-primary.md",
-      "CODING_TEST": "coding-test/2026-11-24-a+b-3과-for문.md"
+      "CODING_TEST": "coding-test/2026-11-24-a+b-3과-for문.md",
+      "SECURITY": "security/2026-11-24-sql-인젝션과-preparedstatement.md"
     }
   }
 }
