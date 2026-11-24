@@ -18,12 +18,14 @@
       "nextUp": "@Qualifier: 대부분은 카카오(@Primary)인데 환불 서비스만 토스를 써야 할 때"
     },
     "CODING_TEST": {
-      "done": 1,
+      "done": 2,
       "recentTopics": [
+        "반복문 (A+B - 3)",
         "입문 (입출력과 반복문)"
       ],
       "solvedProblems": [
-        1000
+        1000,
+        10950
       ]
     },
     "CODE_REVIEW": {
@@ -66,7 +68,8 @@
     },
     "2026-11-24": {
       "CS": "cs/2026-11-24-스레드가-많으면-빨라질까.md",
-      "BACKEND": "backend/2026-11-24-인터페이스로-결제-바꾸기와-primary.md"
+      "BACKEND": "backend/2026-11-24-인터페이스로-결제-바꾸기와-primary.md",
+      "CODING_TEST": "coding-test/2026-11-24-a+b-3과-for문.md"
     }
   }
 }
