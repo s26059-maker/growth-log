@@ -20,14 +20,16 @@
       "nextUp": "사용자가 결제 수단을 직접 고를 때: Map<String, PaymentService>로 구현체를 전부 받아서 골라 쓰기 (전략 패턴)"
     },
     "CODING_TEST": {
-      "done": 2,
+      "done": 3,
       "recentTopics": [
+        "출력 형식 (구구단)",
         "반복문 (A+B - 3)",
         "입문 (입출력과 반복문)"
       ],
       "solvedProblems": [
         1000,
-        10950
+        10950,
+        2739
       ]
     },
     "CODE_REVIEW": {
@@ -80,7 +82,8 @@
     },
     "2026-11-25": {
       "CS": "cs/2026-11-25-데드락은-왜-생기고-어떻게-막을까.md",
-      "BACKEND": "backend/2026-11-25-qualifier로-환불만-토스-쓰기.md"
+      "BACKEND": "backend/2026-11-25-qualifier로-환불만-토스-쓰기.md",
+      "CODING_TEST": "coding-test/2026-11-25-구구단과-출력-형식.md"
     }
   }
 }
