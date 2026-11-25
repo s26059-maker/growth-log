@@ -53,7 +53,7 @@
       ]
     },
     "DIARY": {
-      "done": 2
+      "done": 3
     }
   },
   "reviews": [
@@ -86,7 +86,8 @@
       "CS": "cs/2026-11-25-데드락은-왜-생기고-어떻게-막을까.md",
       "BACKEND": "backend/2026-11-25-qualifier로-환불만-토스-쓰기.md",
       "CODING_TEST": "coding-test/2026-11-25-구구단과-출력-형식.md",
-      "ARCHITECTURE": "architecture/2026-11-25-급식-앱-설계-층-나누기-유니크-제약-캐시.md"
+      "ARCHITECTURE": "architecture/2026-11-25-급식-앱-설계-층-나누기-유니크-제약-캐시.md",
+      "DIARY": "diary/2026-11-25.md"
     }
   }
 }
