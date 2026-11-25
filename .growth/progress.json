@@ -3,8 +3,9 @@
   "startedAt": "2026-11-23",
   "categories": {
     "CS": {
-      "done": 2,
+      "done": 3,
       "recentTopics": [
+        "데드락",
         "스레드 수와 컨텍스트 스위칭",
         "프로세스와 스레드"
       ]
@@ -75,6 +76,9 @@
       "CODING_TEST": "coding-test/2026-11-24-a+b-3과-for문.md",
       "SECURITY": "security/2026-11-24-sql-인젝션과-preparedstatement.md",
       "DIARY": "diary/2026-11-24.md"
+    },
+    "2026-11-25": {
+      "CS": "cs/2026-11-25-데드락은-왜-생기고-어떻게-막을까.md"
     }
   }
 }
