@@ -11,12 +11,13 @@
       ]
     },
     "BACKEND": {
-      "done": 2,
+      "done": 3,
       "recentTopics": [
+        "@Qualifier와 빈 이름",
         "인터페이스와 @Primary",
         "의존성 주입과 생성자 주입"
       ],
-      "nextUp": "@Qualifier: 대부분은 카카오(@Primary)인데 환불 서비스만 토스를 써야 할 때"
+      "nextUp": "사용자가 결제 수단을 직접 고를 때: Map<String, PaymentService>로 구현체를 전부 받아서 골라 쓰기 (전략 패턴)"
     },
     "CODING_TEST": {
       "done": 2,
@@ -78,7 +79,8 @@
       "DIARY": "diary/2026-11-24.md"
     },
     "2026-11-25": {
-      "CS": "cs/2026-11-25-데드락은-왜-생기고-어떻게-막을까.md"
+      "CS": "cs/2026-11-25-데드락은-왜-생기고-어떻게-막을까.md",
+      "BACKEND": "backend/2026-11-25-qualifier로-환불만-토스-쓰기.md"
     }
   }
 }
