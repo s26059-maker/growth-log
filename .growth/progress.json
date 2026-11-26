@@ -37,11 +37,12 @@
       ]
     },
     "CODE_REVIEW": {
-      "done": 1,
+      "done": 2,
       "recentTopics": [
+        "엔티티 직접 반환과 DTO",
         "주입 방식과 싱글톤 공유 상태"
       ],
-      "nextUp": "JPA 첫걸음: 컨트롤러가 엔티티를 그대로 응답으로 돌려주는 코드 리뷰 (DTO로 바꾸기)"
+      "nextUp": "N+1 맛보기: 회원 목록을 돌면서 각 회원의 주문을 하나씩 조회하는 코드 (쿼리가 몇 번 나갈까?)"
     },
     "SECURITY": {
       "done": 1,
@@ -87,7 +88,8 @@
       "CS_REVIEW": "cs/2026-11-26-프로세스와-스레드-그리고-경쟁-상태-복습.md",
       "CS": "cs/2026-11-26-뮤텍스와-세마포어-그리고-커넥션-풀.md",
       "BACKEND": "backend/2026-11-26-map으로-결제-수단-고르기-전략-패턴.md",
-      "CODING_TEST": "coding-test/2026-11-26-별-찍기와-이중-for문.md"
+      "CODING_TEST": "coding-test/2026-11-26-별-찍기와-이중-for문.md",
+      "CODE_REVIEW": "code-review/2026-11-26-회원-조회-api-리뷰-서비스-층-optional-dto.md"
     }
   }
 }
