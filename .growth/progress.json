@@ -62,7 +62,7 @@
       ]
     },
     "DIARY": {
-      "done": 4
+      "done": 5
     }
   },
   "reviews": [],
@@ -99,7 +99,8 @@
     "2026-11-27": {
       "CS": "cs/2026-11-27-가상-메모리와-페이징-그리고-스왑.md",
       "BACKEND": "backend/2026-11-27-aop로-실행-시간-로그-한-곳에-모으기.md",
-      "CODING_TEST": "coding-test/2026-11-27-x보다-작은-수와-if문.md"
+      "CODING_TEST": "coding-test/2026-11-27-x보다-작은-수와-if문.md",
+      "DIARY": "diary/2026-11-27.md"
     }
   }
 }
