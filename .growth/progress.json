@@ -3,8 +3,9 @@
   "startedAt": "2026-11-23",
   "categories": {
     "CS": {
-      "done": 4,
+      "done": 5,
       "recentTopics": [
+        "가상 메모리와 페이징",
         "뮤텍스와 세마포어",
         "데드락",
         "스레드 수와 컨텍스트 스위칭",
@@ -91,6 +92,9 @@
       "CODING_TEST": "coding-test/2026-11-26-별-찍기와-이중-for문.md",
       "CODE_REVIEW": "code-review/2026-11-26-회원-조회-api-리뷰-서비스-층-optional-dto.md",
       "DIARY": "diary/2026-11-26.md"
+    },
+    "2026-11-27": {
+      "CS": "cs/2026-11-27-가상-메모리와-페이징-그리고-스왑.md"
     }
   }
 }
